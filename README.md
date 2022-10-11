@@ -20,4 +20,4 @@ f	runs the game at one tick per second
 
 ## Demo
 
-![gif demo of the game](/../gif/ghost=racer-demo.git)
+![gif demo of the game](../gif/ghost-racer-demo.git)
