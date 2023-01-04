@@ -1,6 +1,6 @@
 # Ghost Racer
 
-* A 2D game made in C++ using freeglut to manage windows. All actors in the game are individual objects derived from GraphObject class with their own constructors, destructors, and behaviors. Additionally, all actors can interact with eachother to do things like damaging eachother, colliding with eachother, updating your score, and more. 
+* A 2D game made in C++ using freeglut to manage windows. All actors in the game are individual objects derived from GraphObject class with their own constructors, destructors, and behaviors. Additionally, all actors can interact with eachother to do things like damaging eachother, colliding with eachother, updating score, and more. 
 
 ## Goal
 
